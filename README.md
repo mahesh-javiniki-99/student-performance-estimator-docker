@@ -1,2 +1,1 @@
-# student-performance-estimator-docker
-Student Performance Estimator with Docker
+# End to End Machine Learning Project with Deployment
